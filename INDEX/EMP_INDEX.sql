@@ -1,0 +1,5 @@
+  CREATE INDEX "EMP_1" ON "EMP" ("MGR") 
+  ;
+
+  CREATE INDEX "EMP_2" ON "EMP" ("DEPTNO") 
+  ;
